@@ -1,0 +1,12 @@
+/Users/paulmackay/Desktop/C#/Objects/OOP/OOP/bin/Debug/netcoreapp3.1/OOP.deps.json
+/Users/paulmackay/Desktop/C#/Objects/OOP/OOP/bin/Debug/netcoreapp3.1/OOP.runtimeconfig.json
+/Users/paulmackay/Desktop/C#/Objects/OOP/OOP/bin/Debug/netcoreapp3.1/OOP.runtimeconfig.dev.json
+/Users/paulmackay/Desktop/C#/Objects/OOP/OOP/bin/Debug/netcoreapp3.1/OOP.dll
+/Users/paulmackay/Desktop/C#/Objects/OOP/OOP/bin/Debug/netcoreapp3.1/OOP.pdb
+/Users/paulmackay/Desktop/C#/Objects/OOP/OOP/obj/Debug/netcoreapp3.1/OOP.csprojAssemblyReference.cache
+/Users/paulmackay/Desktop/C#/Objects/OOP/OOP/obj/Debug/netcoreapp3.1/OOP.AssemblyInfoInputs.cache
+/Users/paulmackay/Desktop/C#/Objects/OOP/OOP/obj/Debug/netcoreapp3.1/OOP.AssemblyInfo.cs
+/Users/paulmackay/Desktop/C#/Objects/OOP/OOP/obj/Debug/netcoreapp3.1/OOP.csproj.CoreCompileInputs.cache
+/Users/paulmackay/Desktop/C#/Objects/OOP/OOP/obj/Debug/netcoreapp3.1/OOP.dll
+/Users/paulmackay/Desktop/C#/Objects/OOP/OOP/obj/Debug/netcoreapp3.1/OOP.pdb
+/Users/paulmackay/Desktop/C#/Objects/OOP/OOP/obj/Debug/netcoreapp3.1/OOP.genruntimeconfig.cache
