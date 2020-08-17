@@ -6,9 +6,23 @@ namespace OOP
     {
         static void Main(string[] args)
         {
-            var newWarehouse = new Warehouse("Warehouse 1", 101);
-            var myItem = newWarehouse.FindAndReturnItem(101);
-            Console.WriteLine("My new item is " + myItem.Name);
+            var myComputer = new Computer();
+            myComputer.ID = 102;
+            
+            Item mySecondComputer = new Computer();
+            mySecondComputer.ID = 103;
+            Computer mySecondComputer2 = mySecondComputer as Computer;
+            mySecondComputer2.CPUType = "i7";
+            string myCPUType = mySecondComputer2.CPUType;
+            mySecondComputer2.Name = "Jupiter";
+            
+            mySecondComputer2.Purchase();
+            
+            Software mySoftware = new Software();
+            mySoftware.Name = "Foo";
+            mySoftware.ID = 101;
+            mySoftware.ISBN = "1234";
+            mySoftware.Purchase();
         }
     }
 }
