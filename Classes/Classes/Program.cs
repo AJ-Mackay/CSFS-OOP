@@ -4,13 +4,14 @@ namespace Classes
 {
     class Employee
     {
-        private int age;
-
-        public int Age
-        {
-            get { return age; }
-            set { age = value; }
-        }
+       // private int age;
+       // public int Age
+       // {
+       //     get { return age; }
+       //     set { age = value; }
+       // }
+       public int Age { get; set; }
+       public string Name { get; set; }
     }
     
     class Program
@@ -19,7 +20,7 @@ namespace Classes
         {
             Employee Dave = new Employee();
             Dave.Age = 35;
-            Console.WriteLine("Dave's age is {0}", age);
+            Console.WriteLine("Dave's age is {0}", Dave.Age);
         }
     }
 }
