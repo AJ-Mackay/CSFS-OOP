@@ -1,0 +1,12 @@
+/Users/paulmackay/Desktop/C#/Objects/Classes/Classes/bin/Debug/netcoreapp3.1/Classes.deps.json
+/Users/paulmackay/Desktop/C#/Objects/Classes/Classes/bin/Debug/netcoreapp3.1/Classes.runtimeconfig.json
+/Users/paulmackay/Desktop/C#/Objects/Classes/Classes/bin/Debug/netcoreapp3.1/Classes.runtimeconfig.dev.json
+/Users/paulmackay/Desktop/C#/Objects/Classes/Classes/bin/Debug/netcoreapp3.1/Classes.dll
+/Users/paulmackay/Desktop/C#/Objects/Classes/Classes/bin/Debug/netcoreapp3.1/Classes.pdb
+/Users/paulmackay/Desktop/C#/Objects/Classes/Classes/obj/Debug/netcoreapp3.1/Classes.csprojAssemblyReference.cache
+/Users/paulmackay/Desktop/C#/Objects/Classes/Classes/obj/Debug/netcoreapp3.1/Classes.AssemblyInfoInputs.cache
+/Users/paulmackay/Desktop/C#/Objects/Classes/Classes/obj/Debug/netcoreapp3.1/Classes.AssemblyInfo.cs
+/Users/paulmackay/Desktop/C#/Objects/Classes/Classes/obj/Debug/netcoreapp3.1/Classes.csproj.CoreCompileInputs.cache
+/Users/paulmackay/Desktop/C#/Objects/Classes/Classes/obj/Debug/netcoreapp3.1/Classes.dll
+/Users/paulmackay/Desktop/C#/Objects/Classes/Classes/obj/Debug/netcoreapp3.1/Classes.pdb
+/Users/paulmackay/Desktop/C#/Objects/Classes/Classes/obj/Debug/netcoreapp3.1/Classes.genruntimeconfig.cache
